@@ -8,7 +8,7 @@
       "author": "Dr. John Smith",
       "authorImage": "https://th.bing.com/th/id/OIP.IrUBHhdMo6wWLFueKNreRwHaHa?pid=ImgDet&rs=1",
       "authorDesignation": "Sleep Specialist",
-      "contentImage": "./Blog-images/blog-article-img1.png"
+      "contentImage": "https://i.postimg.cc/0NvMNxNR/blog-article-img1.png"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "author": "Dr. Emily Brown",
       "authorImage": "https://th.bing.com/th/id/OIP.IrUBHhdMo6wWLFueKNreRwHaHa?pid=ImgDet&rs=1",
       "authorDesignation": "Allergist",
-      "contentImage": "./Blog-images/blog-article-img2.png"
+      "contentImage": "https://i.postimg.cc/SRnjPxg8/blog-article-img2.png"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "author": "Dr. Sophia Johnson",
       "authorImage": "https://th.bing.com/th/id/OIP.IrUBHhdMo6wWLFueKNreRwHaHa?pid=ImgDet&rs=1",
       "authorDesignation": "Cardiologist",
-      "contentImage": "./Blog-images/blog-article-img3.png"
+      "contentImage": "https://i.postimg.cc/k41Bwbvq/blog-article-img3.png"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "author": "Dr. Michael Lee",
       "authorImage": "https://th.bing.com/th/id/OIP.IrUBHhdMo6wWLFueKNreRwHaHa?pid=ImgDet&rs=1",
       "authorDesignation": "Psychiatrist",
-      "contentImage": "./Blog-images/blog-article-img4.png"
+      "contentImage": "https://i.postimg.cc/B6QjxgDm/blog-article-img4.png"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "author": "Dr. Sarah Turner",
       "authorImage": "/images/author5.jpg",
       "authorDesignation": "Nutritionist",
-      "contentImage": "./Blog-images/blog-article-img5.png"
+      "contentImage": "https://i.postimg.cc/2yg3NNtt/blog-article-img5.png"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "author": "Dr. Mark Johnson",
       "authorImage": "https://th.bing.com/th/id/OIP.IrUBHhdMo6wWLFueKNreRwHaHa?pid=ImgDet&rs=1",
       "authorDesignation": "Fitness Expert",
-      "contentImage": "./Blog-images/blog-article-img5.png"
+      "contentImage": "https://i.postimg.cc/2yg3NNtt/blog-article-img5.png"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "author": "Dr. Laura White",
       "authorImage": "https://th.bing.com/th/id/OIP.IrUBHhdMo6wWLFueKNreRwHaHa?pid=ImgDet&rs=1",
       "authorDesignation": "Psychologist",
-      "contentImage": "./Blog-images/blog-article-img4.png"
+      "contentImage": "https://i.postimg.cc/B6QjxgDm/blog-article-img4.png"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "author": "Dr. Elizabeth Moore",
       "authorImage": "https://th.bing.com/th/id/OIP.IrUBHhdMo6wWLFueKNreRwHaHa?pid=ImgDet&rs=1",
       "authorDesignation": "Dermatologist",
-      "contentImage": "./Blog-images/blog-article-img3.png"
+      "contentImage": "https://i.postimg.cc/k41Bwbvq/blog-article-img3.png"
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "author": "Dr. Christopher Lee",
       "authorImage": "https://th.bing.com/th/id/OIP.IrUBHhdMo6wWLFueKNreRwHaHa?pid=ImgDet&rs=1",
       "authorDesignation": "Mindfulness Coach",
-      "contentImage": "./Blog-images/blog-article-img2.png"
+      "contentImage": "https://i.postimg.cc/SRnjPxg8/blog-article-img2.png"
     },
     {
       "id": 10,
@@ -98,7 +98,7 @@
       "author": "Dr. Jennifer Carter",
       "authorImage": "https://th.bing.com/th/id/OIP.IrUBHhdMo6wWLFueKNreRwHaHa?pid=ImgDet&rs=1",
       "authorDesignation": "Gastroenterologist",
-      "contentImage": "./Blog-images/blog-article-img1.png"
+      "contentImage": "https://i.postimg.cc/0NvMNxNR/blog-article-img1.png"
     },
     {
       "id": 11,
@@ -108,7 +108,7 @@
       "author": "Dr. William Turner",
       "authorImage": "https://th.bing.com/th/id/OIP.IrUBHhdMo6wWLFueKNreRwHaHa?pid=ImgDet&rs=1",
       "authorDesignation": "Immunologist",
-      "contentImage": "./Blog-images/blog-article-img4.png"
+      "contentImage": "https://i.postimg.cc/B6QjxgDm/blog-article-img4.png"
     },
     {
       "id": 12,
@@ -118,7 +118,7 @@
       "author": "Dr. Jessica Adams",
       "authorImage": "https://th.bing.com/th/id/OIP.IrUBHhdMo6wWLFueKNreRwHaHa?pid=ImgDet&rs=1",
       "authorDesignation": "Anxiety Specialist",
-      "contentImage": "./Blog-images/blog-article-img3.png"
+      "contentImage": "https://i.postimg.cc/k41Bwbvq/blog-article-img3.png"
     },
     {
       "id": 13,
@@ -128,7 +128,7 @@
       "author": "Dr. Samuel Brown",
       "authorImage": "https://th.bing.com/th/id/OIP.IrUBHhdMo6wWLFueKNreRwHaHa?pid=ImgDet&rs=1",
       "authorDesignation": "Hydration Expert",
-      "contentImage": "./Blog-images/blog-article-img2.png"
+      "contentImage": "https://i.postimg.cc/SRnjPxg8/blog-article-img2.png"
     },
     {
       "id": 14,
@@ -138,7 +138,7 @@
       "author": "Dr. Olivia Green",
       "authorImage": "https://th.bing.com/th/id/OIP.IrUBHhdMo6wWLFueKNreRwHaHa?pid=ImgDet&rs=1",
       "authorDesignation": "Exercise Physiologist",
-      "contentImage": "./Blog-images/blog-article-img1.png"
+      "contentImage": "https://i.postimg.cc/0NvMNxNR/blog-article-img1.png"
     },
     {
       "id": 15,
@@ -148,7 +148,7 @@
       "author": "Dr. Richard Anderson",
       "authorImage": "https://th.bing.com/th/id/OIP.IrUBHhdMo6wWLFueKNreRwHaHa?pid=ImgDet&rs=1",
       "authorDesignation": "Geriatrician",
-      "contentImage": "./Blog-images/blog-article-img3.png"
+      "contentImage": "https://i.postimg.cc/k41Bwbvq/blog-article-img3.png"
     },
     {
       "id": 16,
@@ -158,7 +158,7 @@
       "author": "Dr. Rebecca Miller",
       "authorImage": "https://th.bing.com/th/id/OIP.IrUBHhdMo6wWLFueKNreRwHaHa?pid=ImgDet&rs=1",
       "authorDesignation": "Workplace Psychologist",
-      "contentImage": "./Blog-images/blog-article-img2.png"
+      "contentImage": "https://i.postimg.cc/SRnjPxg8/blog-article-img2.png"
     },
     {
       "id": 17,
@@ -168,7 +168,7 @@
       "author": "Dr. Alex Thompson",
       "authorImage": "https://th.bing.com/th/id/OIP.IrUBHhdMo6wWLFueKNreRwHaHa?pid=ImgDet&rs=1",
       "authorDesignation": "Sleep Researcher",
-      "contentImage": "./Blog-images/blog-article-img1.png"
+      "contentImage": "https://i.postimg.cc/0NvMNxNR/blog-article-img1.png"
     },
     {
       "id": 18,
@@ -178,7 +178,7 @@
       "author": "Dr. Emily Davis",
       "authorImage": "https://th.bing.com/th/id/OIP.IrUBHhdMo6wWLFueKNreRwHaHa?pid=ImgDet&rs=1",
       "authorDesignation": "Family Therapist",
-      "contentImage": "./Blog-images/blog-article-img5.png"
+      "contentImage": "https://i.postimg.cc/2yg3NNtt/blog-article-img5.png"
     },
     {
       "id": 19,
@@ -188,7 +188,7 @@
       "author": "Dr. James Wilson",
       "authorImage": "https://th.bing.com/th/id/OIP.IrUBHhdMo6wWLFueKNreRwHaHa?pid=ImgDet&rs=1",
       "authorDesignation": "Fitness Coach",
-      "contentImage": "./Blog-images/blog-article-img4.png"
+      "contentImage": "https://i.postimg.cc/B6QjxgDm/blog-article-img4.png"
     },
     {
       "id": 20,
@@ -198,7 +198,7 @@
       "author": "Dr. Maria Garcia",
       "authorImage": "https://th.bing.com/th/id/OIP.IrUBHhdMo6wWLFueKNreRwHaHa?pid=ImgDet&rs=1",
       "authorDesignation": "Alternative Medicine Practitioner",
-      "contentImage": "./Blog-images/blog-article-img1.png"
+      "contentImage": "https://i.postimg.cc/0NvMNxNR/blog-article-img1.png"
     },
     {
       "id": 21,
@@ -208,7 +208,7 @@
       "author": "Dr. Jennifer Clark",
       "authorImage": "https://example.com/author21.jpg",
       "authorDesignation": "Nutritional Psychologist",
-      "contentImage": "./Blog-images/blog-article-img1.png"
+      "contentImage": "https://i.postimg.cc/0NvMNxNR/blog-article-img1.png"
     },
     {
       "id": 22,
@@ -218,7 +218,7 @@
       "author": "Dr. Robert Anderson",
       "authorImage": "https://example.com/author22.jpg",
       "authorDesignation": "Stress Management Specialist",
-      "contentImage": "./Blog-images/blog-article-img2.png"
+      "contentImage": "https://i.postimg.cc/SRnjPxg8/blog-article-img2.png"
     },
     {
       "id": 23,
@@ -228,7 +228,7 @@
       "author": "Dr. Laura Carter",
       "authorImage": "https://example.com/author23.jpg",
       "authorDesignation": "Creative Coach",
-      "contentImage": "./Blog-images/blog-article-img3.png"
+      "contentImage": "https://i.postimg.cc/k41Bwbvq/blog-article-img3.png"
     },
     {
       "id": 24,
@@ -238,7 +238,7 @@
       "author": "Dr. Samuel Davis",
       "authorImage": "https://example.com/author24.jpg",
       "authorDesignation": "Mindfulness Practitioner",
-      "contentImage": "./Blog-images/blog-article-img4.png"
+      "contentImage": "https://i.postimg.cc/B6QjxgDm/blog-article-img4.png"
     },
     {
       "id": 25,
@@ -248,13 +248,13 @@
       "author": "Dr. Olivia Wilson",
       "authorImage": "https://example.com/author25.jpg",
       "authorDesignation": "Emotional Wellness Coach",
-      "contentImage": "./Blog-images/blog-article-img5.png"
+      "contentImage": "https://i.postimg.cc/2yg3NNtt/blog-article-img5.png"
     }
   ],
   "podcastData": [
     {
       "id": 1,
-      "image": "./podcast-images/doc1.png",
+      "image": "https://i.postimg.cc/QttpXs6N/doc1.png",
       "author": "KYLE ROBBINS",
       " duration": "34 MIN",
       "title": "Lasik Procedures Explained Can It Help Your Blurred Vision",
@@ -262,7 +262,7 @@
     },
     {
       "id": 2,
-      "image": "./podcast-images/doc2.png",
+      "image": "https://i.postimg.cc/cCtwnhyV/doc2.png",
       "author": "KYLE ROBBINS",
       " duration": "34 MIN",
       "title": "Lasik Procedures Explained Can It Help Your Blurred Vision",
@@ -270,7 +270,7 @@
     },
     {
       "id": 3,
-      "image": "./podcast-images/doc3.png",
+      "image": "https://i.postimg.cc/9z3Tt9cz/doc3.png",
       "author": "KYLE ROBBINS",
       " duration": "34 MIN",
       "title": "Lasik Procedures Explained Can It Help Your Blurred Vision",
@@ -278,7 +278,7 @@
     },
     {
       "id": 4,
-      "image": "./podcast-images/doc4.png",
+      "image": "https://i.postimg.cc/W3H0zKKG/doc4.png",
       "author": "KYLE ROBBINS",
       " duration": "34 MIN",
       "title": "Lasik Procedures Explained Can It Help Your Blurred Vision",
@@ -286,7 +286,7 @@
     },
     {
       "id": 5,
-      "image": "./podcast-images/doc2.png",
+      "image": "https://i.postimg.cc/cCtwnhyV/doc2.png",
       "author": "KYLE ROBBINS",
       " duration": "34 MIN",
       "title": "Lasik Procedures Explained Can It Help Your Blurred Vision",
@@ -294,7 +294,7 @@
     },
     {
       "id": 6,
-      "image": "./podcast-images/doc3.png",
+      "image": "https://i.postimg.cc/9z3Tt9cz/doc3.png",
       "author": "KYLE ROBBINS",
       " duration": "34 MIN",
       "title": "Lasik Procedures Explained Can It Help Your Blurred Vision",
@@ -306,73 +306,73 @@
       "id": 1,
       "author": "AARON SANDERS",
       " subscribers": "1,920,929 LISTENERS",
-      "image": "./podcast-images/doc1.png"
+      "image": "https://i.postimg.cc/QttpXs6N/doc1.png"
     },
     {
       "id": 2,
       "author": "JESSICA MILLER",
       " subscribers": "987,654 LISTENERS",
-      "image": "./podcast-images/doc2.png"
+      "image": "https://i.postimg.cc/cCtwnhyV/doc2.png"
     },
     {
       "id": 3,
       "author": "MICHAEL JOHNSON",
       " subscribers": "234,567 LISTENERS",
-      "image": "./podcast-images/doc1.png"
+      "image": "https://i.postimg.cc/QttpXs6N/doc1.png"
     },
     {
       "id": 4,
       "author": "EMILY SMITH",
       " subscribers": "345,678 LISTENERS",
-      "image": "./podcast-images/doc1.png"
+      "image": "https://i.postimg.cc/QttpXs6N/doc1.png"
     },
     {
       "id": 5,
       "author": "DAVID WILSON",
       " subscribers": "456,789 LISTENERS",
-      "image": "./podcast-images/doc1.png"
+      "image": "https://i.postimg.cc/QttpXs6N/doc1.png"
     },
     {
       "id": 6,
       "author": "SARAH MARTIN",
       " subscribers": "567,890 LISTENERS",
-      "image": "./podcast-images/doc2.png"
+      "image": "https://i.postimg.cc/cCtwnhyV/doc2.png"
     },
     {
       "id": 7,
       "author": "CHRISTOPHER ADAMS",
       " subscribers": "678,901 LISTENERS",
-      "image": "./podcast-images/doc3.png"
+      "image": "https://i.postimg.cc/9z3Tt9cz/doc3.png"
     },
     {
       "id": 8,
       "author": "OLIVIA BROWN",
       " subscribers": "789,012 LISTENERS",
-      "image": "./podcast-images/doc4.png"
+      "image": "https://i.postimg.cc/W3H0zKKG/doc4.png"
     },
     {
       "id": 9,
       "author": "ANDREW MARTINEZ",
       " subscribers": "890,123 LISTENERS",
-      "image": "./podcast-images/doc1.png"
+      "image": "https://i.postimg.cc/QttpXs6N/doc1.png"
     },
     {
       "id": 10,
       "author": "EMMA TAYLOR",
       " subscribers": "901,234 LISTENERS",
-      "image": "./podcast-images/doc2.png"
+      "image": "https://i.postimg.cc/cCtwnhyV/doc2.png"
     },
     {
       "id": 11,
       "author": "JAMES WILSON",
       " subscribers": "123,456 LISTENERS",
-      "image": "./podcast-images/doc3.png"
+      "image": "https://i.postimg.cc/9z3Tt9cz/doc3.png"
     },
     {
       "id": 12,
       "author": "SOPHIA LEE",
       " subscribers": "234,567 LISTENERS",
-      "image": "./podcast-images/doc4.png"
+      "image": "https://i.postimg.cc/W3H0zKKG/doc4.png"
     }
   ],
 
@@ -384,7 +384,7 @@
       "title": "The Sepsis Episode",
       "description": "in this edisode 5 of a b-part series on fitness, exercise and performance watt rulerton, he explains optimal nutrition, hydration and supplementation tc achieve your fitness goals. We cover macronutrient guidelines, when to eat relative to tramming and tramming tasted versus ted. Or. Galbin describes proper hvdration for before and during exercise. how denvaration and or low electrolyte concentrations impede physical and mental pertormance.",
       "videoPodcast": "https://www.youtube.com/watch?v=gATPi_Md8rI",
-      "image": "./podcast-images/doc1.png",
+      "image": "https://i.postimg.cc/QttpXs6N/doc1.png",
       "timestamps": [
         { "time": "00:00:00", "description": "Intro" },
         { "time": "00:02:10", "description": "Welcome" },
@@ -435,7 +435,7 @@
       "title": "The Infectious Diseases Episode",
       "description": "in this edisode 5 of a b-part series on fitness, exercise and performance watt rulerton, he explains optimal nutrition, hydration and supplementation tc achieve your fitness goals. We cover macronutrient guidelines, when to eat relative to tramming and tramming tasted versus ted. Or. Galbin describes proper hvdration for before and during exercise. how denvaration and or low electrolyte concentrations impede physical and mental pertormance.",
       "videoPodcast": "https://www.youtube.com/watch?v=_QQYfl5-r1E",
-      "image": "./podcast-images/doc2.png",
+      "image": "https://i.postimg.cc/cCtwnhyV/doc2.png",
       "timestamps": [
         { "time": "00:00:00", "description": "Intro" },
         { "time": "00:02:10", "description": "Welcome" },
@@ -486,7 +486,7 @@
       "title": "The Diabetes Episode",
       "description": "in this edisode 5 of a b-part series aa on fitness, exercise and performance watt rulerton, he explains optimal nutrition, hydration and supplementation tc achieve your fitness goals. We cover macronutrient guidelines, when to eat relative to tramming and tramming tasted versus ted. Or. Galbin describes proper hvdration for before and during exercise. how denvaration and or low electrolyte concentrations impede physical and mental pertormance.",
       "videoPodcast": "https://www.youtube.com/watch?v=3U-F1bWKbqQ",
-      "image": "./podcast-images/doc3.png",
+      "image": "https://i.postimg.cc/9z3Tt9cz/doc3.png",
       "timestamps": [
         { "time": "00:00:00", "description": "Intro" },
         { "time": "00:02:10", "description": "Welcome" },
@@ -537,7 +537,7 @@
       "title": "The Stress And Burn Out Episode",
       "description": "in this edisode 5 of a b-part series on fitness, exercise and performance watt rulerton, he explains optimal nutrition, hydration and supplementation tc achieve your fitness goals. We cover macronutrient guidelines, when to eat relative to tramming and tramming tasted versus ted. Or. Galbin describes proper hvdration for before and during exercise. how denvaration and or low electrolyte concentrations impede physical and mental pertormance.",
       "videoPodcast": "https://www.youtube.com/watch?v=OfeIOI8ov2A",
-      "image": "./podcast-images/doc4.png",
+      "image": "https://i.postimg.cc/W3H0zKKG/doc4.png",
       "timestamps": [
         { "time": "00:00:00", "description": "Intro" },
         { "time": "00:02:10", "description": "Welcome" },
